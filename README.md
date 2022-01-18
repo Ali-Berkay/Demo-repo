@@ -2,4 +2,4 @@
 
 Some description!
 # demooooo
-ERTRRETET
+BERKAYIN GOTUNU NE EDİM 
