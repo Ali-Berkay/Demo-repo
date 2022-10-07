@@ -3,4 +3,4 @@
 Some description!
 # demooooo
 
-# yeni git dersleri
+# yeni git ders
