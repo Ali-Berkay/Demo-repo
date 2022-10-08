@@ -3,4 +3,5 @@
 Some description!
 # demooooo
 
-# yeni git ders
+# yeni git dersi 
+#patika
